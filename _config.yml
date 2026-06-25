@@ -24,13 +24,13 @@ repository               : "christineZhu9/christineZhu9.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Christine Zhu"
+  pronouns         :  "She/Her" 
+  bio              : "MPH in Epidemiology with Certificate in Genetic and Molecular Epidemiology"
+  location         : "Atlanta, Georgia, USA"
+  employer         : "Emory University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "siyuz8956@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "christineZhu9"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "christinezhu940"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
